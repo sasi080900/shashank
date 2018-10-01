@@ -12,3 +12,16 @@ while True:
         break 
     else:
          print("give either 'r' or 'q' ")    
+            OUT PUT
+            enter 'r' to roll the dice  and 'q' to quit the gamer
+2
+enter 'r' to roll the dice  and 'q' to quit the gamer
+4
+enter 'r' to roll the dice  and 'q' to quit the gamer
+4
+enter 'r' to roll the dice  and 'q' to quit the gamerr
+give either 'r' or 'q' 
+enter 'r' to roll the dice  and 'q' to quit the gamer
+1
+enter 'r' to roll the dice  and 'q' to quit the gameq
+you exit the game
